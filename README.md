@@ -89,8 +89,8 @@ Every contribution helps cover API + hosting costs and funds new features.
 🧠 Feedback, Bugs & Feature Requests
 
 Join the community — share outputs, ask questions, request improvements:
-Discord: https://discord.gg/Aj2zqx7S
-Facebook: https://www.facebook.com/groups/alrevolutionmidjourneydalle2stablediffusion
+Discord: https://discord.gg/Aj2zqx7S <br/>
+Facebook: https://www.facebook.com/groups/alrevolutionmidjourneydalle2stablediffusion <br/>
 Or open an issue here on GitHub.
 
 👤 Creator
