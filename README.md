@@ -61,3 +61,49 @@ Preserves identity, clothing, lighting, and visual consistency while reconstruct
 1. Install dependencies  
    ```sh
    npm install
+   
+2. Create .env.local and add your API key:
+GEMINI_API_KEY=your_key_here
+3. Start development server
+   npm run dev
+✅ Licensing
+
+Free for personal and commercial use.
+Attribution appreciated but not required.
+
+💛 Support the Project
+
+This app — and others like it — are intentionally free so creators don’t have to rely on restrictive paywalls.
+
+If it helps you, consider supporting development:
+
+https://ko-fi.com/zgenmedia
+
+Tiers available:
+
+Supporter — $3/mo
+Creator Access — $9/mo
+Power User — $25/mo
+Sponsor — $60/mo
+Corporate / Agency — $250/mo
+
+Every contribution helps cover API + hosting costs and funds new features.
+
+🧠 Feedback, Bugs & Feature Requests
+
+Join the community — share outputs, ask questions, request improvements:
+
+Discord: https://discord.gg/Aj2zqx7S
+
+Or open an issue here on GitHub.
+
+👤 Creator
+
+Built by zGenMedia — tools made for creators, not gatekeepers.
+More apps coming soon.
+
+<div align="center">
+
+✨ Power to the creators ✨
+
+</div> ```
