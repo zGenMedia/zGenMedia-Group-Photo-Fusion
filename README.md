@@ -66,6 +66,7 @@ Preserves identity, clothing, lighting, and visual consistency while reconstruct
 GEMINI_API_KEY=your_key_here
 3. Start development server
    npm run dev
+
 ✅ Licensing
 
 Free for personal and commercial use.
