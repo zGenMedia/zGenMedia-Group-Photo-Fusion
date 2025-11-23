@@ -76,11 +76,11 @@ https://ko-fi.com/zgenmedia
 
 Tiers available:
 
-Supporter — $3/mo
-Creator Access — $9/mo
-Power User — $25/mo
-Sponsor — $60/mo
-Corporate / Agency — $250/mo
+Supporter — $3/mo<br/>
+Creator Access — $9/mo<br/>
+Power User — $25/mo<br/>
+Sponsor — $60/mo<br/>
+Corporate / Agency — $250/mo<br/>
 
 Every contribution helps cover API + hosting costs and funds new features.
 
@@ -88,7 +88,7 @@ Every contribution helps cover API + hosting costs and funds new features.
 
 🧠 Feedback, Bugs & Feature Requests
 
-Join the community — share outputs, ask questions, request improvements:
+Join the community — share outputs, ask questions, request improvements:<br/>
 Discord: https://discord.gg/Aj2zqx7S <br/>
 Facebook: https://www.facebook.com/groups/alrevolutionmidjourneydalle2stablediffusion <br/>
 Or open an issue here on GitHub.
