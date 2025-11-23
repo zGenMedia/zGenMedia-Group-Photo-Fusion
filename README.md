@@ -102,5 +102,4 @@ More apps coming soon.
 
 ✨ Power to the creators ✨
 
-</div> ```
-Why this README works
+</div>
