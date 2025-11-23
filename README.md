@@ -1,5 +1,5 @@
 <div align="center">
-<img height="475" alt="GHBanner" src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4cc2d3b8-a7a4-4758-b2fc-f45103387f07/original=true/4cc2d3b8-a7a4-4758-b2fc-f45103387f07.jpeg" />
+<img width="1200" alt="GroupPhotoFusionBanner" src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4cc2d3b8-a7a4-4758-b2fc-f45103387f07/original=true/4cc2d3b8-a7a4-4758-b2fc-f45103387f07.jpeg" />
 </div>
 
 <br/>
