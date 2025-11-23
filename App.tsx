@@ -414,6 +414,17 @@ const App: React.FC = () => {
             {renderAppName()}
           </h1>
         </div>
+        <p className="mt-3 text-center text-gray-400 text-sm sm:text-base max-w-2xl">
+           Merge individual photos into realistic group portraits with AI.{" "}
+           <a 
+             href="https://ko-fi.com/zgenmedia/tiers" 
+             target="_blank" 
+             rel="noopener noreferrer" 
+             className="text-[#E4A0AF] hover:underline font-medium"
+           >
+             Donations are appreciated.
+           </a>
+        </p>
         <ZGenHeader />
       </header>
 
