@@ -1,0 +1,5 @@
+{
+  "name": "Group Photo Fusion [Public Beta]",
+  "description": "An application that takes 2 to 4 photos of people and merges them into a single, realistic group photo based on a selected scenario. It uses AI to generate natural poses, consistent lighting, and high-resolution results while preserving identities and clothing.",
+  "requestFramePermissions": []
+}
